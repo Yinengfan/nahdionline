@@ -7,7 +7,7 @@
 
 # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
 mountpoints:
-   /: https://adobe-my.sharepoint.com/:f:/r/personal/yfanchen_adobe_com/Documents/EDS/nahdionline?csf=1&web=1&e=42GSgB
+   /: https://adobe.sharepoint.com/:f:/r/sites/Nahdionline/Shared%20Documents/nahdionline?csf=1&web=1&e=nDp74P
 
 folders:
   /products/plan/: /products/plan/default
