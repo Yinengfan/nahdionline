@@ -500,4 +500,4 @@ async function loadPage() {
 
 loadPage();
 
-window.hlx.sampleRUM = sampleRUM;
+window.hlx.rum.sampleRUM = sampleRUM;
