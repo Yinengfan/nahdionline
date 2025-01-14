@@ -499,3 +499,5 @@ async function loadPage() {
 }
 
 loadPage();
+
+window.hlx.sampleRUM = sampleRUM;
